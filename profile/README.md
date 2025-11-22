@@ -56,7 +56,7 @@ A powerful toolkit for building and deploying e-commerce solutions quickly and e
 **Technologies**: Shell scripting, DevOps automation
 
 ### 🎨 [Free Next.js Admin Dashboard](https://github.com/CodeStorm-Hub/free-nextjs-admin-dashboard)
-TailAdmin - A Next.js and Tailwind CSS free, open-source admin dashboard template. Provides developers with the necessary tools, components, and pages to build a full-featured back-end, dashboard, or admin panel for any web project.
+TailAdmin (maintained by CodeStorm Hub) - A Next.js and Tailwind CSS free, open-source admin dashboard template. We maintain and adapt TailAdmin to provide developers with the necessary tools, components, and pages to build a full-featured back-end, dashboard, or admin panel for any web project.
 
 **Technologies**: TypeScript, Next.js, Tailwind CSS  
 **Live Demo**: [nextjs-demo.tailadmin.com](https://nextjs-demo.tailadmin.com)
