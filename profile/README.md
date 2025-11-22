@@ -147,11 +147,11 @@ Check out individual repository `CONTRIBUTING.md` files for specific contributio
 
 ---
 
-## 📊 Statistics
+## 📊 Our Impact
 
 ![Organization Stats](https://img.shields.io/badge/Repositories-8-blue?style=flat-square)
-![Stars](https://img.shields.io/badge/Total%20Stars-5+-yellow?style=flat-square)
-![Active Projects](https://img.shields.io/badge/Active%20Projects-6-green?style=flat-square)
+![Active Development](https://img.shields.io/badge/Status-Active-green?style=flat-square)
+![Community Driven](https://img.shields.io/badge/Community-Driven-orange?style=flat-square)
 
 ---
 
