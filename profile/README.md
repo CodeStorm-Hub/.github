@@ -105,7 +105,7 @@ Our projects leverage modern, industry-leading technologies:
 - **Azizul Hakim Akash** - Software Engineer
   - Dedicated to creating efficient, scalable solutions with modern web technologies
 
-- **Maruf Mustal Moon** - DevOps Expert
+- **[Maruf Mustal Moon](https://github.com/marufmustalmoon)** - DevOps Expert
   - Platform engineer bridging development and operations, expert in infrastructure design and automation
 
 - **Afsan Khan** - AI/ML Expert
