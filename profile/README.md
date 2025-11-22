@@ -172,7 +172,7 @@ Check out individual repository `CONTRIBUTING.md` files for specific contributio
 
 ## 📊 Our Impact
 
-![Organization Stats](https://img.shields.io/badge/Repositories-8-blue?style=flat-square)
+![Organization Stats](https://img.shields.io/github/orgs/CodeStorm-Hub/repos?label=Repositories&style=flat-square)
 ![Active Development](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 ![Community Driven](https://img.shields.io/badge/Community-Driven-orange?style=flat-square)
 
