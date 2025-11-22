@@ -95,10 +95,33 @@ Our projects leverage modern, industry-leading technologies:
 
 ### Core Contributors
 
-- **[Rezwana Karim](https://github.com/rezwanakarim)** - Founder & Lead Developer
-  - Full-stack development
-  - Project architecture and design
-  - Open source advocacy
+- **[Syed Salman Reza](https://github.com/syed-reza98)** - Senior Software Engineer & Lead Developer
+  - Experienced software engineer specializing in modern web technologies and scalable system architecture
+  - [LinkedIn](https://www.linkedin.com/in/salman-reza)
+
+- **[Rafiqul Islam Susmoy](https://github.com/rafiqul4)** - Software Engineer
+  - Passionate full-stack developer with expertise in problem-solving
+
+- **Azizul Hakim Akash** - Software Engineer
+  - Dedicated to creating efficient, scalable solutions with modern web technologies
+
+- **Maruf Mustal Moon** - DevOps Expert
+  - Platform engineer bridging development and operations, expert in infrastructure design and automation
+
+- **Afsan Khan** - AI/ML Expert
+  - Artificial Intelligence and Machine Learning specialist with expertise in neural networks
+
+- **Neamul Islam Razib** - Software Engineer
+  - Skilled in modern development practices and building robust applications
+
+- **Md Mehedi Hasan** - Digital Marketing & Business Analysis
+  - Market research, strategy development, and data-driven insights specialist
+
+### Organization Leadership
+
+- **[Rezwana Karim](https://github.com/rezwana-karim)** - Founder & Organization Lead
+  - Open source advocacy and community building
+  - Project oversight and strategic direction
 
 ### Contributing
 
