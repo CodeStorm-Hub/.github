@@ -8,7 +8,7 @@
 
 We collaborate on powerful open-source solutions that make a difference.
 
-[![Website](https://img.shields.io/badge/Website-codestorm--hub.github.io-blue?style=flat-square)](https://codestorm-hub.github.io)
+[![Website](https://img.shields.io/badge/Website-codestorm--hub.github.io-blue?style=flat-square)](https://codestormhub.dev)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square)](https://opensource.org/)
 
